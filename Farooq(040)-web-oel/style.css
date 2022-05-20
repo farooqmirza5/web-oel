@@ -1,0 +1,24 @@
+.body {font-family:"Times New Roman", serif}
+h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
+
+
+.icons{
+    margin-left: 8%;
+    margin-top: 100px;
+  }
+  
+  .icons a{
+    font-size: 30px;
+    color: #212121;
+    margin-right: 20px;
+  }
+  
+  .icons a:hover{
+    color: #1bbbbb;
+  }
+  
+  /* footer styling */
+  #footer {
+    background-color: #808080;
+    text-align: center;
+  }
